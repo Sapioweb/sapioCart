@@ -1,0 +1,26 @@
+{
+  "name": "cart",
+  "version": "1.0.0",
+  "description": "Stupid simple angular cart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Sapioweb/cart.git"
+  },
+  "keywords": [
+    "Angular",
+    "Angular",
+    "JS",
+    "ecommerce",
+    "cart"
+  ],
+  "author": "Andreas Beasley <andreas@sapioweb.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sapioweb/cart/issues"
+  },
+  "homepage": "https://github.com/Sapioweb/cart#readme"
+}
