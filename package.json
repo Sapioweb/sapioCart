@@ -12,15 +12,19 @@
   },
   "keywords": [
     "Angular",
-    "Angular",
-    "JS",
+    "Angularjs",
     "ecommerce",
-    "cart"
+    "cart",
+    "sapioweb"
   ],
   "author": "Andreas Beasley <andreas@sapioweb.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Sapioweb/cart/issues"
   },
-  "homepage": "https://github.com/Sapioweb/cart#readme"
+  "homepage": "https://github.com/Sapioweb/cart#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-minify": "^2.1.0"
+  }
 }
