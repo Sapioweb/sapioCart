@@ -1,5 +1,5 @@
 {
-  "name": "cart",
+  "name": "sapiocart",
   "version": "1.0.0",
   "description": "Stupid simple angular cart",
   "main": "index.js",
